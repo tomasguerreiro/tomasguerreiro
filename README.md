@@ -16,6 +16,7 @@
 ![image info](https://img.shields.io/badge/-ReactNative-black?logo=react&logoColor=white)
 ![image info](https://img.shields.io/badge/-NextJS-black?logo=nextdotjs&logoColor=white)
 ![image info](https://img.shields.io/badge/-StyledComponents-black?logo=styledcomponents&logoColor=white)
+![image info](https://img.shields.io/badge/-Azure-black?logo=microsoftazure&logoColor=white)
 
 ![image info](https://img.shields.io/badge/-Node-black?logo=nodedotjs&logoColor=white)
 ![image info](https://img.shields.io/badge/-NestJs-black?logo=nestjs&logoColor=white)
@@ -44,7 +45,6 @@
 
   ### Estou aprendendo
   
-![image info](https://img.shields.io/badge/-Azure-black?logo=microsoftazure&logoColor=white)
 ![image info](https://img.shields.io/badge/-Deno-black?logo=deno&logoColor=white)
 ![image info](https://img.shields.io/badge/-Nginx-black?logo=nginx&logoColor=white)
 ![image info](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&logoColor=white)
